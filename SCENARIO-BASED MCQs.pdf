@@ -1,0 +1,19 @@
+SCENARIO-BASED MCQs 	
+ 
+MCQ 1: Collections Design
+
+answer :  A. ArrayList<Course> for all students
+
+
+MCQ 2: Exception Handling Scenario
+
+answer:  C. Throw a custom exception like InvalidFeeException
+
+MCQ 3: Multithreading Use Case 
+
+answer :   A. Remove multithreading 
+
+MCQ 4: OOP Design Decision
+
+answer:   A. Abstract Class
+ 
